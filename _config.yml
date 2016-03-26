@@ -1,0 +1,14 @@
+layout_spectrum: 0.7616982
+color:
+  saturation: 0.5190622
+  lightness: 0.4741394
+  brandStrength: 0.2951096
+  brandColors:
+    - '#FFFFFF'
+    - '#30312F'
+    - '#B3AC98'
+    - '#656F38'
+    - '#E1A30D'
+  rhythmicContrast: 0.3483215
+typography_spectrum: 0.9789208
+name: 'Lanipaolibrary '
